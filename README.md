@@ -8,7 +8,8 @@ Diablo 4 Helper - Alert Timer: World Boss, Legion Event, Helltide
 <img width="406" height="513" alt="image" src="https://github.com/user-attachments/assets/d85cab4d-5b47-48dc-8c6c-7a02dd7250bb" />
 
 <img width="406" height="513" alt="image" src="https://github.com/user-attachments/assets/fa8e6b34-6632-468a-ab79-810554994252" />
-<img width="2544" height="1512" alt="image" src="https://github.com/user-attachments/assets/0d93d6f6-b51c-45c1-84a4-145d8f30e874" />
+<img width="406" height="513" alt="image" src="https://github.com/user-attachments/assets/28cdc06d-2cb4-455a-ab98-0fb7ee49ead2" />
+
 
 
 
